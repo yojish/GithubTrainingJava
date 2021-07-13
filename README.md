@@ -43,7 +43,7 @@ You can clean and install dependencies doing
 > ./mvnw spring-boot:run
 ```
 
-![browser demo](../docs/../GithubTrainingJava/docs/greetings.png "greetings in action")
+![browser demo](https://raw.githubusercontent.com/GitHubWorkshop2021/GithubTrainingJava/main/docs/greetings.png "greetings in action")
 
 ```bash
 # For launching tests you only need to run
@@ -51,6 +51,6 @@ You can clean and install dependencies doing
 ```
 
 Also you can execute all the solution in IntelliJ Idea 
-![IntelliJ demo](../docs/../GithubTrainingJava/docs/testspassing.png "test passingin intelliJ Idea")
+![IntelliJ demo](https://raw.githubusercontent.com/GitHubWorkshop2021/GithubTrainingJava/main/docs/testspassing.png "test passingin intelliJ Idea")
 https://download.jetbrains.com/idea/ideaIC-2021.1.3.exe
 
